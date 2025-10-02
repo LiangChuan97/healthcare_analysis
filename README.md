@@ -11,7 +11,7 @@ Goal 3: Examine length of stay trends and factors affecting it.
 3. **Length of Stay Analysis**<p>Which factors (medical condition and medication) influence stay length?
 
 
-**Methodology:** Data was sourced from [kaggle]([url](https://www.kaggle.com/datasets/prasad22/healthcare-dataset)), cleaned and transformed using SQL. Exploratory data analysis was performed to identify trends and correlations. An interactive dashboard was then developed in tableau to present key findings.
+**Methodology:** Data was sourced from <a href = "https://www.kaggle.com/datasets/prasad22/healthcare-dataset">kaggle </a>, cleaned and transformed using SQL. Exploratory data analysis was performed to identify trends and correlations. An interactive dashboard was then developed in tableau to present key findings.
 
 **Key Findings:** <p>
 1) Age 40–60 accounts for 29.73% of total patients, with male patients averaging $25,465.7 billing per admission vs females at $25,438.8.<p>
